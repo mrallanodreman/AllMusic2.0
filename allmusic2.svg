@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#00d4aa"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.25)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.05)"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="url(#bg)" opacity="0.92"/>
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="url(#g)"/>
+  <g fill="rgba(255,255,255,0.9)" transform="translate(38,24)">
+    <ellipse cx="24" cy="68" rx="14" ry="12"/>
+    <ellipse cx="48" cy="60" rx="12" ry="10"/>
+    <rect x="36" y="18" width="8" height="50" rx="3"/>
+    <rect x="18" y="26" width="8" height="50" rx="3"/>
+    <rect x="18" y="24" width="36" height="8" rx="3"/>
+  </g>
+  <g fill="rgba(255,255,255,0.3)" transform="translate(38,24)">
+    <ellipse cx="24" cy="68" rx="14" ry="12"/>
+    <ellipse cx="48" cy="60" rx="12" ry="10"/>
+    <rect x="36" y="18" width="8" height="50" rx="3"/>
+    <rect x="18" y="26" width="8" height="50" rx="3"/>
+    <rect x="18" y="24" width="36" height="8" rx="3"/>
+  </g>
+</svg>
